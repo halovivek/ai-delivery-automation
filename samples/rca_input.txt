@@ -1,0 +1,7 @@
+Production issue: Payment API failing intermittently.
+
+Symptoms:
+- Timeout errors
+- Increased latency
+
+Logs indicate DB connection pool exhaustion.
